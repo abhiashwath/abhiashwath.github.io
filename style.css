@@ -4,6 +4,12 @@ body {
     margin: 0 auto;
 }
 
+@media (max-width: 768px) {
+    body {
+        width: 90%;
+    }
+}
+
 h1 {
     font-size: 28px;
 }
